@@ -5,5 +5,8 @@
 - **1.bool:**  
   About boolean variables.  
   关于布尔变量。
+- **1.array:**  
+  About array.  
+  关于数组  
 > - The development environment for this codes is Visual Studio 2022.
 > - 这些代码的开发环境是VS2022。
