@@ -7,6 +7,9 @@
   关于布尔变量。
 - **2.array:**  
   About array.  
-  关于数组。  
+  关于数组。
+- **3.primeNumber:**  
+  About prime number.  
+  关于质数。  
 > - The development environment for this codes is Visual Studio 2022.
 > - 这些代码的开发环境是VS2022。
