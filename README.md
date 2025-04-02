@@ -11,7 +11,7 @@
 - **3.primeNumber:**  
   About prime number.  
   关于质数。
-- **4.recursion:**
+- **4.recursion:**  
   About recursion.  
   关于指针。  
 > - The development environment for this codes is Visual Studio 2022.
