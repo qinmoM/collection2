@@ -13,6 +13,6 @@
   关于质数。
 - **4.recursion:**  
   About recursion.  
-  关于指针。  
+  关于递归。  
 > - The development environment for this codes is Visual Studio 2022.
 > - 这些代码的开发环境是VS2022。
