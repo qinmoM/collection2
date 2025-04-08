@@ -17,5 +17,8 @@
 - **5.countDigit:**  
   Count the number of each digit in the string.  
   统计字符串里每个数字的个数。  
+- **6.colorAdjustment:**  
+  About the color adjustment of the terminal.  
+  关于终端的颜色调节。  
 > - The development environment for this codes is Visual Studio 2022.
 > - 这些代码的开发环境是VS2022。
