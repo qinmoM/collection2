@@ -20,5 +20,8 @@
 - **6.colorAdjustment:**  
   About the color adjustment of the terminal.  
   关于终端的颜色调节。  
+- **7.audio:**  
+  The Beep function.  
+  Beep函数。  
 > - The development environment for this codes is Visual Studio 2022.
 > - 这些代码的开发环境是VS2022。
