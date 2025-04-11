@@ -23,5 +23,8 @@
 - **7.audio:**  
   The Beep function.  
   Beep函数。  
+- **8.Sleep:**  
+  The Sleep function.  
+  Sleep函数。  
 > - The development environment for this codes is Visual Studio 2022.
 > - 这些代码的开发环境是VS2022。
