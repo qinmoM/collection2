@@ -31,5 +31,8 @@
 - **9.2DArray:**  
   About 2D array.  
   关于二维数组。  
+- **10.qsort:**  
+  About using of qsort.  
+  关于qsort排序的使用。  
 > - The development environment for this codes is Visual Studio 2022.
 > - 这些代码的开发环境是VS2022。
