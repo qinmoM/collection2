@@ -29,8 +29,8 @@
   The Sleep function.  
   Sleep函数。  
 - **9.2DArray:**  
-  About 2D array.  
-  关于二维数组。  
+  About passing 2D array as parameters.  
+  关于二维数组传参。  
 - **10.qsort:**  
   About using of qsort.  
   关于qsort排序的使用。  
