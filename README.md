@@ -34,5 +34,8 @@
 - **10.qsort:**  
   About using of qsort.  
   关于qsort排序的使用。  
+- **11.enum:**  
+  About enum.  
+  关于枚举。  
 > - The development environment for this codes is Visual Studio 2022.
 > - 这些代码的开发环境是VS2022。
