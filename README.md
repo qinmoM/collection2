@@ -39,6 +39,9 @@
   关于枚举。  
 - **12.dynamicMemoryManage:**  
   About dynamic memory management.  
-  关于动态内存管理。    
+  关于动态内存管理。  
+- **13.file:**  
+  About file.  
+  关于文件。  
 > - The development environment for this codes is Visual Studio 2022.
 > - 这些代码的开发环境是VS2022。
