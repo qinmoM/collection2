@@ -1,0 +1,2 @@
+This code covers the following concept:typedef for type naming,static storage,register variables,extern for external function declaration and unsigned integers.
+本次代码包含以下知识点:typedef重命名数据类型，静态储存，register放到寄存器，extern声明外部函数和无符号整型。

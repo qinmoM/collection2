@@ -1,0 +1,2 @@
+The code includes the creation of structures and their members,the usage of structures and the structures pointers.Please note:The code include Chinese characters,open it using "GBK" encoding.
+本次代码包含了经济结构体及其成员的创建，结构体的使用，和结构体指针。请注意：本次代码包含中文，请使用“GBK”编码形式打开。
